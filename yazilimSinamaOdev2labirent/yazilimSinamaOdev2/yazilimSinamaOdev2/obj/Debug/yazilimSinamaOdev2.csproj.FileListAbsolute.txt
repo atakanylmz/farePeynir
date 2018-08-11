@@ -1,0 +1,36 @@
+C:\Users\Serap\Desktop\nesne\proje\yazilimSinamaOdev2\yazilimSinamaOdev2\bin\Debug\yazilimSinamaOdev2.exe.config
+C:\Users\Serap\Desktop\nesne\proje\yazilimSinamaOdev2\yazilimSinamaOdev2\bin\Debug\yazilimSinamaOdev2.exe
+C:\Users\Serap\Desktop\nesne\proje\yazilimSinamaOdev2\yazilimSinamaOdev2\bin\Debug\yazilimSinamaOdev2.pdb
+C:\Users\Serap\Desktop\nesne\proje\yazilimSinamaOdev2\yazilimSinamaOdev2\obj\Debug\yazilimSinamaOdev2.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\nesne\proje\yazilimSinamaOdev2\yazilimSinamaOdev2\obj\Debug\yazilimSinamaOdev2.Form1.resources
+C:\Users\Serap\Desktop\nesne\proje\yazilimSinamaOdev2\yazilimSinamaOdev2\obj\Debug\yazilimSinamaOdev2.Properties.Resources.resources
+C:\Users\Serap\Desktop\nesne\proje\yazilimSinamaOdev2\yazilimSinamaOdev2\obj\Debug\yazilimSinamaOdev2.csproj.GenerateResource.Cache
+C:\Users\Serap\Desktop\nesne\proje\yazilimSinamaOdev2\yazilimSinamaOdev2\obj\Debug\yazilimSinamaOdev2.exe
+C:\Users\Serap\Desktop\nesne\proje\yazilimSinamaOdev2\yazilimSinamaOdev2\obj\Debug\yazilimSinamaOdev2.pdb
+C:\Users\Serap\Desktop\yazilimSinamaOdev2\yazilimSinamaOdev2\bin\Debug\yazilimSinamaOdev2.exe.config
+C:\Users\Serap\Desktop\yazilimSinamaOdev2\yazilimSinamaOdev2\obj\Debug\yazilimSinamaOdev2.exe
+C:\Users\Serap\Desktop\yazilimSinamaOdev2\yazilimSinamaOdev2\obj\Debug\yazilimSinamaOdev2.pdb
+C:\Users\Serap\Desktop\yazilimSinamaOdev2\yazilimSinamaOdev2\bin\Debug\yazilimSinamaOdev2.exe
+C:\Users\Serap\Desktop\yazilimSinamaOdev2\yazilimSinamaOdev2\bin\Debug\yazilimSinamaOdev2.pdb
+C:\Users\Serap\Desktop\yazilimSinamaOdev2\yazilimSinamaOdev2\obj\Debug\yazilimSinamaOdev2.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\yazilimSinamaOdev2\yazilimSinamaOdev2\obj\Debug\yazilimSinamaOdev2.Form1.resources
+C:\Users\Serap\Desktop\yazilimSinamaOdev2\yazilimSinamaOdev2\obj\Debug\yazilimSinamaOdev2.Properties.Resources.resources
+C:\Users\Serap\Desktop\yazilimSinamaOdev2\yazilimSinamaOdev2\obj\Debug\yazilimSinamaOdev2.csproj.GenerateResource.Cache
+C:\Users\Serap\Desktop\Git için\yazilimSinamaOdev2\yazilimSinamaOdev2\yazilimSinamaOdev2\bin\Debug\yazilimSinamaOdev2.exe.config
+C:\Users\Serap\Desktop\Git için\yazilimSinamaOdev2\yazilimSinamaOdev2\yazilimSinamaOdev2\obj\Debug\yazilimSinamaOdev2.exe
+C:\Users\Serap\Desktop\Git için\yazilimSinamaOdev2\yazilimSinamaOdev2\yazilimSinamaOdev2\obj\Debug\yazilimSinamaOdev2.pdb
+C:\Users\Serap\Desktop\Git için\yazilimSinamaOdev2\yazilimSinamaOdev2\yazilimSinamaOdev2\bin\Debug\yazilimSinamaOdev2.exe
+C:\Users\Serap\Desktop\Git için\yazilimSinamaOdev2\yazilimSinamaOdev2\yazilimSinamaOdev2\bin\Debug\yazilimSinamaOdev2.pdb
+C:\Users\Serap\Desktop\Git için\yazilimSinamaOdev2\yazilimSinamaOdev2\yazilimSinamaOdev2\obj\Debug\yazilimSinamaOdev2.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\Git için\yazilimSinamaOdev2\yazilimSinamaOdev2\yazilimSinamaOdev2\obj\Debug\yazilimSinamaOdev2.Form1.resources
+C:\Users\Serap\Desktop\Git için\yazilimSinamaOdev2\yazilimSinamaOdev2\yazilimSinamaOdev2\obj\Debug\yazilimSinamaOdev2.Properties.Resources.resources
+C:\Users\Serap\Desktop\Git için\yazilimSinamaOdev2\yazilimSinamaOdev2\yazilimSinamaOdev2\obj\Debug\yazilimSinamaOdev2.csproj.GenerateResource.Cache
+C:\Users\Serap\Desktop\Git için\yazilimSinamaOdev2labirent\yazilimSinamaOdev2\yazilimSinamaOdev2\bin\Debug\yazilimSinamaOdev2.exe.config
+C:\Users\Serap\Desktop\Git için\yazilimSinamaOdev2labirent\yazilimSinamaOdev2\yazilimSinamaOdev2\obj\Debug\yazilimSinamaOdev2.exe
+C:\Users\Serap\Desktop\Git için\yazilimSinamaOdev2labirent\yazilimSinamaOdev2\yazilimSinamaOdev2\obj\Debug\yazilimSinamaOdev2.pdb
+C:\Users\Serap\Desktop\Git için\yazilimSinamaOdev2labirent\yazilimSinamaOdev2\yazilimSinamaOdev2\bin\Debug\yazilimSinamaOdev2.exe
+C:\Users\Serap\Desktop\Git için\yazilimSinamaOdev2labirent\yazilimSinamaOdev2\yazilimSinamaOdev2\bin\Debug\yazilimSinamaOdev2.pdb
+C:\Users\Serap\Desktop\Git için\yazilimSinamaOdev2labirent\yazilimSinamaOdev2\yazilimSinamaOdev2\obj\Debug\yazilimSinamaOdev2.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\Git için\yazilimSinamaOdev2labirent\yazilimSinamaOdev2\yazilimSinamaOdev2\obj\Debug\yazilimSinamaOdev2.Form1.resources
+C:\Users\Serap\Desktop\Git için\yazilimSinamaOdev2labirent\yazilimSinamaOdev2\yazilimSinamaOdev2\obj\Debug\yazilimSinamaOdev2.Properties.Resources.resources
+C:\Users\Serap\Desktop\Git için\yazilimSinamaOdev2labirent\yazilimSinamaOdev2\yazilimSinamaOdev2\obj\Debug\yazilimSinamaOdev2.csproj.GenerateResource.Cache
